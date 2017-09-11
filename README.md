@@ -10,7 +10,7 @@ In this workshop, participants will explore microbial diversity and metabolism. 
 ## Tutorial
 ## Before getting started
 In this tutorial, we will use these softwares to create and visualize a 16S rRNA gene phylogeny. We also recommend knowing where and how to access the Terminal and a text editor, we will give explanations for that soon. 
-1. MEGA 6.06 http://www.megasoftware.net/
+1. MEGA 7 http://www.megasoftware.net/
 2. FigTree http://tree.bio.ed.ac.uk/software/figtree/
 ## Download required files:
 There are three folders in this repository called "Scenario_1", "Scenario_2" and "Scenario_3"
