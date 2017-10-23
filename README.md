@@ -13,9 +13,14 @@ In this tutorial, we will use these softwares to create and visualize a 16S rRNA
 1. MEGA 7 http://www.megasoftware.net/
 2. FigTree http://tree.bio.ed.ac.uk/software/figtree/
 ## Download required files:
-There are three folders in this repository called "Scenario_1", "Scenario_2" and "Scenario_3"
+There are three folders in this repository called "Scenario_1", "Scenario_2" and "Scenario_3". In each file you will find 4 fasta files: 1 containing the reference sequences, 1 with sequences from the outgroup and 2 with sequences of the microbial communities you will study in each scenario.
 1. Scenario 1:
-Samples were taken from the anoxic (low oxygen) and oxic (oxygen available) layers of a stratified temperate lake. We will compare how diverse metabolism distribute accross the microbial diversity "tree". 
+Samples were taken from a temperate lake (Lake Croche, in Canada) and a tropical lake (Lake Carioca, in Brazil, data provided by Marcelo Ávila) at the same season. We will explore the similarity and differences in microbial community composition.
 2. Scenario 2:
-Samples were taken from a temperate and a tropical lake at the same time of the year. We will explore the similarity and differences in microbial community composition and diversity. 
+Samples of anoxygenic and oxygenic photosynthetic bacteria were taken from public databases. We will compare how phylogenetic different these species can be.
 3. Scenario 3:
+Samples were taken from two lakes of different trophic status: Lake Croche (Canada), an oligotrophic lake, and Lake Erie (USA), a large deep lake under cyanobacterial bloom. We will explore the similarity and differences in microbial community composition.
+## Get ready to build the phylogenetic tree in MEGA
+After you have chosen which scenario you want to study, open MEGA 7 in your computer and follow the instructions present in the tutorial (PartI_usingMEGA_ecolac). You can use the English (EN) or French (FR) version.
+## Edit the phylogenetic tree in FigTree
+After you have finished the tutorial Part I you can save the tree as a Newick file (.nwk) and edit it followinf the tutorial Part II (PartII_VisualizingTree_FigTree_Tutorial)
