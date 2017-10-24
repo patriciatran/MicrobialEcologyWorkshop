@@ -27,6 +27,6 @@ Samples were taken from two lakes of different trophic status: Lake Croche (Cana
 4. For scenario 2: is one of the processes more widely distributed phylogenetically than the other?
 5. For scenario 2, which process (anoxygenic or oxygenic photosynthesis) would you expect to be more affected by environmental changes (e.g. global warming)? Why?
 ## Get ready to build the phylogenetic tree in MEGA
-After you have chosen which scenario you want to study, open MEGA 7 in your computer and follow the instructions present in the tutorial (PartI_usingMEGA_ecolac). You can use the English (EN) or French (FR) version.
+After choosing which scenario you want to study, open MEGA 7 on your computer and follow the instructions in the tutorial (PartI_usingMEGA_ecolac for your operating system of choice). You can use the English (EN) or French (FR) version.
 ## Edit the phylogenetic tree in FigTree
-After you have finished the tutorial Part I you can save the tree as a Newick file (.nwk) and edit it followinf the tutorial Part II (PartII_VisualizingTree_FigTree_Tutorial)
+After you have finished the tutorial Part I you can save the tree as a Newick file (.nwk) and edit it following the tutorial Part II (PartII_VisualizingTree_FigTree_Tutorial)
