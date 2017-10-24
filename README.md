@@ -17,12 +17,12 @@ There are three folders in this repository called "Scenario_1", "Scenario_2" and
 1. Scenario 1:
 Samples were taken from a temperate lake (Lake Croche, in Canada) and a tropical lake (Lake Carioca, in Brazil, data provided by Marcelo Ávila) at the same season. We will explore the similarity and differences in microbial community composition.
 2. Scenario 2:
-Samples of anoxygenic and oxygenic photosynthetic bacteria were taken from public databases. We will compare how phylogenetic different these species are.
+Samples of anoxygenic and oxygenic photosynthetic bacteria were taken from public databases. We will compare how phylogenetic different these microbial communities are.
 3. Scenario 3:
-Samples were taken from two lakes of different trophic status: Lake Croche (Canada), an oligotrophic lake, and Lake Erie (USA), a large deep lake under cyanobacterial bloom. We will explore the similarity and differences in microbial community composition.
+Samples were taken from two lakes of different trophic status: Lake Croche (Canada), an oligotrophic lake, and Lake Erie (USA), a large deep lake with a history of eutrophication and cyanobacterial bloom. We will explore the similarity and differences in microbial community composition.
 ## Keep in mind these questions while you do the exercise:
 1. What are the general patterns of the tree?
-2. Which group or community is more phylogenetic diverse? Any ideas why?
+2. Which group is more phylogenetic diverse? Any ideas why?
 3. For scenario 1 and 3: are the compared microbial communities phylogenetically related or very different/separated?
 4. For scenario 2: is one of the processes more widely distributed phylogenetically than the other?
 5. For scenario 2, which process (anoxygenic or oxygenic photosynthesis) would you expect to be more affected by environmental changes (e.g. global warming)? Why?
