@@ -13,7 +13,7 @@ In this tutorial, we will use these softwares to create and visualize a 16S rRNA
 1. MEGA 7 http://www.megasoftware.net/
 2. FigTree http://tree.bio.ed.ac.uk/software/figtree/
 ### Download required files:
-There are three folders in this repository called "Scenario_1", "Scenario_2" and "Scenario_3". In each file you will find 4 fasta files: 1 containing the reference sequences, 1 with sequences from the outgroup and 2 with sequences of the microbial communities you will study in each scenario.
+There are three folders in this repository called "Scenario_1", "Scenario_2" and "Scenario_3". In each folder, you will find 4 fasta files: 1 for the reference sequences, 1 with sequences for the outgroup and 2 with sequences of the microbial communities you will compare in each scenario.
 1. Scenario 1:
 Samples were taken from a temperate lake (Lake Croche, in Canada) and a tropical lake (Lake Carioca, in Brazil, data provided by Marcelo Ávila) at the same season. We will explore the similarity and differences in microbial community composition.
 2. Scenario 2:
